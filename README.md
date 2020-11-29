@@ -19,3 +19,9 @@ https://www.cs.cmu.edu/~jiweil/html/hotel-review.html
 
 5) ISE540_projectcode_PART5_model.ipynb
 - This notebook has all the models details 
+
+
+## Statistical Testing 
+https://machinelearningmastery.com/hypothesis-test-for-comparing-machine-learning-algorithms/ 
+
+Once the final model is done, the 5×2 Procedure With MLxtend is used to test the statistically difference between 2 best models. 
